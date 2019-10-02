@@ -1,0 +1,11 @@
+[Protocol]
+exec=aikrw-qt '%u'
+protocol=aikrw
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
